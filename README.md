@@ -1,6 +1,6 @@
 ### Hello, I'm Joo Hyun Park! 👋
 
-✨I am interested in Computer Science espeically in mobile development as much as I love hot chocolate. 
+✨I am interested in Computer Science espeically in mobile development as much as I love <b>hot chocolate</b>. 
 
 🌱Mainly focusing on native mobile platform! (Java and Kotlin) 
 
