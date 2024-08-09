@@ -1,14 +1,12 @@
 ### Hello, I'm Joo Hyun Park! 👋
 
-✨I am interested in Computer Science espeically in mobile development as much as I love <b>hot chocolate</b>. 
+✨I am an Android developer who loves mobile development as much as I love <b>hot chocolate</b>. 
 
-🌱Mainly focusing on native mobile platform! (Java and Kotlin) 
+🌱I mainly focus on native mobile development using Kotlin.
 
-🌱But also willing to learn hybrid platform such as React native or Flutter.
+🌱1 Day, < 1 commit is my favorite thing!
 
 </br>
-
-💬Currently learning Kotlin. For side project, learning Dart and Flutter.💬
 
 [![Top Langs](https://github-readme-stats-alpha-jet.vercel.app/api/top-langs/?username=JooHyunPark-jp&layout=compact&langs_count=6&exclude_repo=JooHyunPark-JP.github.io,SpeedChecker)](https://github.com/anuraghazra/github-readme-stats)[![JooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyunPark-JP&hide=stars,contribs&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
