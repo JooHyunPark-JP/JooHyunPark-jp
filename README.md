@@ -4,7 +4,9 @@
 
 🌱I mainly focus on native mobile development using Kotlin.
 
-🌱1 Day, < 1 commit is my favorite thing!
+🌱My goal is to learn a cross-platform language for mobile development in the future, such as Flutter. 
+
+🌱Everyday learning is my favorite thing!
 
 </br>
 
