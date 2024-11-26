@@ -1,6 +1,8 @@
 ### Hello, I'm Joo Hyun Park! 👋
 
-🌱 Hi there! I'm an Android developer who loves crafting intuitive and efficient mobile applications—almost as much as I love a cup of hot chocolate! ☕
+🌱 Hi there! 
+
+🌱 I'm an Android developer who loves crafting intuitive and efficient mobile applications—almost as much as I love a cup of hot chocolate! ☕
 
 🌱 I specialize in native mobile development with Kotlin, and I'm always excited to explore new ways to solve complex problems.
 
