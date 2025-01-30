@@ -6,8 +6,6 @@
 
 🌱 I'm also eager to expand my skills in cross-platform development, with frameworks like Flutter on my radar for the near future.
 
-🌱 Let’s keep building and growing together! 🚀
-
 </br>
 
 <!--
