@@ -4,7 +4,7 @@
 
 🌱 I specialize in native mobile development with Kotlin.
 
-🌱 I'm also eager to expand my skills in cross-platform development, with frameworks like Flutter on my radar for the near future.
+🌱 I'm also eager to expand my skills in cross-platform development, with frameworks like Flutter or React Native on my radar for the near future.
 
 </br>
 
