@@ -4,7 +4,7 @@
 
 🌱 I specialize in native mobile development with Kotlin.
 
-🌱 I'm also eager to expand my skills in cross-platform development, and I have started to learn Flutter as well! 
+🌱 I'm also eager to expand my skills in cross-platform development, and I have started to learn KMP (Kotlin MultiPlatform) as well! 
 
 
 
