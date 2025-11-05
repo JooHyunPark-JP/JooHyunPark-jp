@@ -1,10 +1,10 @@
 ### Hello, I'm Joo Hyun Park! 👋
 
-🌱 I'm an Android developer who loves crafting intuitive and efficient mobile applications—almost as much as I love a cup of hot chocolate! ☕
+ I'm an Android developer who loves crafting intuitive and efficient mobile applications—almost as much as I love a cup of hot chocolate! ☕
 
-🌱 I specialize in native mobile development with Kotlin.
+ I specialize in native mobile development with Kotlin.
 
-🌱 I'm also eager to expand my skills in cross-platform development, and I have started to learn KMP (Kotlin MultiPlatform) as well! 
+ I'm also eager to expand my skills in cross-platform development, and I have started to learn KMP (Kotlin MultiPlatform) as well!
 
 
 
