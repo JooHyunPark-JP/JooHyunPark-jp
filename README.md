@@ -1,10 +1,14 @@
 ### Hello, I'm Joo Hyun Park! 👋
 
- I'm an Android developer who loves crafting intuitive and efficient mobile applications—almost as much as I love a cup of hot chocolate! ☕
+I'm an Android / Mobile Developer who cares (maybe too much) about clean architecture, reliability, and not waking users up with broken notifications.
 
- I specialize in native mobile development with Kotlin.
+I work mostly with Kotlin and modern Android tools: Jetpack Compose, MVVM, Hilt, Room, and Coroutines/Flow.
 
- I'm also eager to expand my skills in cross-platform development, and I have started to learn KMP (Kotlin MultiPlatform) as well!
+I never stop learning. I'm exploring Kotlin Multiplatform, stronger testing practices, data structures and algorithms, architecture patterns, and infrastructure reliability.
+
+Fueled by refactors, debugging, daily commits, and occasionally hot chocolate. ☕
+
+
 
 
 
