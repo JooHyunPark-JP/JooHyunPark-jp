@@ -4,7 +4,7 @@ I'm an Android / Mobile Developer who cares (maybe too much) about clean archite
 
 I work mostly with Kotlin and modern Android tools: Jetpack Compose, MVVM, Hilt, Room, and Coroutines/Flow.
 
-I never stop learning. I'm exploring Kotlin Multiplatform, stronger testing practices, data structures and algorithms, architecture patterns, and infrastructure reliability.
+I'm exploring Kotlin Multiplatform, stronger testing practices, data structures and algorithms, architecture patterns...
 
 Fueled by refactors, debugging, daily commits, and occasionally hot chocolate. ☕
 
